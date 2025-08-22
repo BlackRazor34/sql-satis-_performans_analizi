@@ -57,4 +57,4 @@ Amaç, satış ekibi ve yöneticiler için **performans raporları** ve **trend 
 
 ## 🏷 Lisans
 
-**Bu proje MIT lisansı ile paylaşılmıştır.**
+**Bu proje MIT lisansı ile paylaşılmıştır.Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.**
