@@ -53,8 +53,4 @@ Amaç, satış ekibi ve yöneticiler için **performans raporları** ve **trend 
 
 3. **Günlük satış + kümülatif satış tablosu**
 
----
 
-## 🏷 Lisans
-
-Bu proje MIT lisansı ile paylaşılmıştır.Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
