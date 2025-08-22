@@ -7,7 +7,8 @@ Amaç, satış ekibi ve yöneticiler için **performans raporları** ve **trend 
 
 ## 📂 İçerik
 
-- **satis_analizi.sql** → Tüm sorgular burada.
+- **satis_analizi.sql** → Satis Analizi
+- **departmana_gore_satis.sql** → Departmanlara Göre Analiz
 
 ### 🔎 İçerikteki Analizler
 
@@ -36,7 +37,7 @@ Amaç, satış ekibi ve yöneticiler için **performans raporları** ve **trend 
 
 ## 🚀 Kullanım
 
-1. **satis_analizi.sql dosyasını açın.
+1. **satis_analizi.sql veya **departmana_gore_satis.sql** dosyasını açın.
 
 2. **SQL Server Management Studio (SSMS) veya Azure Data Studio üzerinden çalıştırın.
 
@@ -46,14 +47,14 @@ Amaç, satış ekibi ve yöneticiler için **performans raporları** ve **trend 
 
 ## 📈 Örnek Çıktılar
 
-1. **Departman ortalamasını aşan çalışanlar
+1. **Departman ortalamasını aşan çalışanlar**
 
-2. **İlk 3 satış yapan çalışan listesi
+2. **İlk 3 satış yapan çalışan listesi**
 
-3. **Günlük satış + kümülatif satış tablosu
+3. **Günlük satış + kümülatif satış tablosu**
 
 ---
 
 ## 🏷 Lisans
 
-**Bu proje MIT lisansı ile paylaşılmıştır.
+**Bu proje MIT lisansı ile paylaşılmıştır.**
