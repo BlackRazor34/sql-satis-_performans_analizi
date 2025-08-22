@@ -37,11 +37,11 @@ Amaç, satış ekibi ve yöneticiler için **performans raporları** ve **trend 
 
 ## 🚀 Kullanım
 
-1. **satis_analizi.sql veya **departmana_gore_satis.sql** dosyasını açın.
+1. **satis_analizi.sql veya **departmana_gore_satis.sql** dosyasını açın.**
 
-2. **SQL Server Management Studio (SSMS) veya Azure Data Studio üzerinden çalıştırın.
+2. **SQL Server Management Studio (SSMS) veya Azure Data Studio üzerinden çalıştırın.**
 
-3. **Sonuçlar farklı departmanlar için otomatik hesaplanacaktır.
+3. **Sonuçlar farklı departmanlar için otomatik hesaplanacaktır.**
 
 ---
 
